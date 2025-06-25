@@ -1,11 +1,5 @@
 -- my test comment pt 3
-<<<<<<< HEAD
--- merge conflict testing >:(
 
-=======
--- merge conflict testing
- 
->>>>>>> 6a7573685553cfb588f04e95e54fb55203f0c885
 with
 
 source as (
